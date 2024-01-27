@@ -1,6 +1,6 @@
 # Student-Database-Management-System-IFT-ADBMS
 
-# Student Database Management System - Readme
+# Student Database Management System
 
 ## Project Overview
 
